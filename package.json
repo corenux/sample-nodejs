@@ -1,0 +1,19 @@
+{
+  "name": "sample-nodejs",
+  "version": "1.0.0",
+  "description": "Sample NodeJS App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corenux/sample-nodejs.git"
+  },
+  "author": "corenux",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corenux/sample-nodejs/issues"
+  },
+  "homepage": "https://github.com/corenux/sample-nodejs#readme"
+}
